@@ -1,0 +1,19 @@
+Functional Requirements
+
+Employees registration
+	Employees can register with there credentials like email and passwords.This will lead them to dashboard,showing them there profile,assigned projects,status of current and prior projects and there performance in projects.
+They can update their profiles,can see upcoming project timelines and manage their 
+schedule according to upcoming projects.
+
+Employee management
+	Managers of the particular project can manage employees according to the project requirements.Employees will be appointed for the projects based on their designation and their current status.Project Managers can allocate and deallocate employees according to availability of employees.
+
+Project assignments
+	Project Managers assign projects by considering number of employees currently available.Project manager will be able to track the progress of current projects and can send feedback whenever required.Project managers can also allocate more than single project to same employee depending upno its designation and requirement of projet.
+
+Project Status
+	Stakeholders and delivery managers will be able to track current status of the project,how many employees are working on it and the amount of resourses are being consumed by that particular project.Stakeholder can suggest changes to project managers according to orgnisation's requirement and Project managers can reflects those changes in team and projects.
+ 
+Performance Evaluation
+	Performance will evaluated on the basis of number of empoyees working on the projects,timelines maintained by employees,their personal performance in the team and quality of work they provide.Dashboard will show list of project and performance of that team associated with that project so that it will be helpful for project managers and stakeholders to track progress of project and if required giving feedback to specific teams and suggest changes. 
+

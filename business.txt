@@ -1,0 +1,37 @@
+Business Entities
+
+Employees
+Project managers
+Delivery managers
+Stakeholders
+Project Assignments
+Current status
+Performance
+
+
+Business Operations
+
+Employees
+1. Employees can Register with there credentials like emailID,Password and Id provided by organisation
+2. Employee can Login in their account with authorised credentials provided at the time of registration
+3.Employees can update there profile having personal details like email,profile picture,current address
+4.Employees can manage their schedules according to upcoming projects and if needed leaves,can inform managers prior to project 
+
+Project Managers
+1.Project Managers can Register with there credentials like emailID,Password and Id provided by organisation.
+2.Project Managers can Login in their account with authorised credentials provided at the time of registration.
+3.Project Managers can update there profile having personal details like email,profile picture,current address
+4.Project managers can allocate and deallocate employees depending upon project requirement.
+5.Managers can apporve or reject "leave request" pass by employee.
+6.Managers can provide feedback to teams working on projects and even track performance of teams.
+
+Delivery Managers
+1.Delivery Managers can Register with there credentials like emailID,Password and Id provided by organisation.
+2.Delivery Managers can Login in their account with authorised credentials provided at the time of registration.
+3.Delivery Managers can update there profile having personal details like email,profile picture,current address.
+4.Delivery Managers can track current status of project and with the help of project managers can arrange meetings. 
+
+Stakeholders
+1.Delivery Managers can Register with there credentials like emailID,Password and Id provided by organisation.
+2.Delivery Managers can Login in their account with authorised credentials provided at the time of registration.
+3.Managers can provide feedback to Managers handling projects and even track performance of teams.
